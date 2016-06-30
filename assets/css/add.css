@@ -1,0 +1,153 @@
+@CHARSET "UTF-8";
+
+.head {
+	background-image: url('../images/logo_header.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 80px;
+}
+
+.custom-col-1 {
+	background-color: #F5F5FF; 
+	height: 610px;
+}
+
+.error{
+	color: red;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.report-btn{
+	position: relative;
+	top: 50px;
+}
+
+#left-side{
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#right-side-home{
+	position: relative;
+	width: 80%;
+	left: 100px;
+}
+
+#right-side-results{
+	position: relative;
+	width: 80%;
+	left: 100px;
+}
+
+#right-side-contact{
+	position: relative;
+	width: 80%;
+	left: 100px;
+}
+
+#right-side-about{
+	position: relative;
+	width: 80%;
+	left: 100px;
+}
+
+#right-side-register{
+	position: relative;
+	width: 80%;
+	left: 180px;
+}
+
+#right-side-login{
+	position: relative;
+	width: 80%;
+	left: 180px;
+}
+
+#right-side-advanced{
+	position: relative;
+	width: 80%;
+	left: 180px;
+}
+
+#right-side-report{
+	position: relative;
+	width: 80%;
+	left: 180px;
+}
+
+#right-side-registSuccessful{
+	position: relative;
+	width: 50%;
+	left: 180px;
+	top: 200px;
+}
+
+#right-side-reportUploaded{
+	position: relative;
+	width: 50%;
+	left: 180px;
+	top: 200px;
+}
+
+.custom-col-2 {
+	/* background-color: green; */
+	position: relative;
+	height: 610px;
+	top: -40px;
+}
+
+.sec-row{
+	position: relative;
+	top: 180px;
+}
+
+.reg-panel{
+	/* border: 0; */
+}
+#continueBtn{
+	position: relative;
+	top: -10px;
+}
+
+/* #datepicker-input{
+  width: 188%;
+  position: relative;
+  height: 33px;
+  border-radius: 4px;
+} */
+
+#gender-select{
+	position: relative;
+	top: 7px;
+}
+#birthdate{
+	margin-bottom: 10px;
+}
+#forget-pwd{
+	position: relative;
+	top: 200px;
+	left: 100px;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 30px;
+	background-color: #f5f5f5;
+	clear: both;
+}
+
+.container .text-muted {
+	margin: 10px 0;
+}
+
+.detailBtn{
+	position: relative;
+	top: 100px;
+	right: 50px;
+}
+
+
